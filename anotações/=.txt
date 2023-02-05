@@ -1,0 +1,7 @@
+<= - menor ou igual, ex. while (2 <= 3), enquanto 2 for menor ou igual a 3, ele faz alguma ação.
+>= - maior ou igual.
+> - maior que.
+< - menor que.
+!= - diferente de, ex. while (2 != 3), enquanto 3 não for igual a 3, ele faz alguma ação.
+== - igual a.
+= - recebe.
